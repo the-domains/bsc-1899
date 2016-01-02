@@ -1,0 +1,28 @@
+name: BSC 1899
+favicon: null
+layout_spectrum: 0.8803555320482701
+typography_spectrum: 0.6130897137336433
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.10903035313822329
+  lightness: 0.36738133803009987
+  saturation: 0.9934705635532737
+  rhythmicContrast: 0.765812169527635
+purpose: []
