@@ -1,6 +1,6 @@
 name: BSC 1899
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.07044
 typography_spectrum: 0.0568
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#a7a6ab'
     - '#6e6d72'
   brandStrength: 0.125
-  lightness: 0.9375
-  saturation: 0.125
-  rhythmicContrast: 1
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
