@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-03T01:48:09.791Z'
-dateModified: '2016-01-03T01:47:44.238Z'
+datePublished: '2016-01-03T02:17:13.616Z'
+dateModified: '2016-01-03T02:16:59.704Z'
 title: Rugby in action
 author: []
+sourcePath: _posts/2016-01-03-rugby-in-action.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-03-rugby-in-action.md
-published: true
 url: rugby-in-action/index.html
-_type: Article
+_type: WebPage
 
 ---
 3\. Bundesliga Rugby vom allerfeinsten!
